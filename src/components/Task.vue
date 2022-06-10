@@ -22,7 +22,7 @@ export default {
 </script>
 <style scoped>
 .fas {
-  color: red;
+  color: #ff0000;
 }
 
 .task {

@@ -37,7 +37,7 @@ export default {
     onSubmit (e) {
       e.preventDefault()
       if (!this.text) {
-        alert('please enter text..')
+        alert('please enter name Task..')
         return
       }
       const newTask = {
